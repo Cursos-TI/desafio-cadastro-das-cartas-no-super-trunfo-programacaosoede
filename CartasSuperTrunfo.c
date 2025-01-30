@@ -1,4 +1,10 @@
 #include <stdio.h>
+int man(){
+printf("desafio novato!/n");
+}
+
+
+
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
